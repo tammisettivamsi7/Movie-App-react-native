@@ -1,0 +1,80 @@
+[
+  {
+    "trending": [
+      {
+        "id": 1,
+        "title": "Avengers",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJCQjuLatAQufb3W-smOA2D90gxYjn0dEysw&s",
+        "description": "The fourth installment in the Avengers saga is the culmination of 22 interconnected films and the climax of an epic journey. Earth’s heroes will finally understand how fragile our reality is—and the sacrifices that must be made to uphold it—in a story of friendship, teamwork and setting aside differences to overcome an impossible obstacle.",
+        "cast":["Robert Downey Jr.","Scarlett Johansson","Chris Evans","Chris Hemsworth","Mark Ruffalo","Jeremy Renner"],
+         "crew": ["Joe Russo", "Anthony"],
+        "star":"https://img.icons8.com/?size=100&id=qdQpy48X3Rjv&format=png&color=000000",
+        "rating":"9.7"
+      },
+      {
+        "id": 2,
+        "title": "kalki 2898 AD",
+        "url": "https://m.media-amazon.com/images/M/MV5BMDQ0ZTcxZTAtOWYxMy00MTYzLWIyOTEtY2UxOWYwYTYwMDhhXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_FMjpg_UX1000_.jpg",
+        "description":"The epic science fiction film has been directed by Nag Ashwin and produced by Vijayanthi Movies. The star-studded film revolves around the story of a select group which is on a mission to save Kalko, the unborn child of SUM-80, a lab subject in a post-apocalyptic world in the year 2898 AD.",
+        "cast":["prabhas","deepika padukone","amitabh bachchan","kamal Hassan","vijay devarakonda"],
+        "crew":["Nag Ashwin","C. Aswani Dutt","Swapna Dutt","Priyanka Dutt"],
+        "star":"https://img.icons8.com/?size=100&id=qdQpy48X3Rjv&format=png&color=000000",
+        "rating":"9.2"
+      },
+      {
+        "id": 3,
+        "title": "Maharaja",
+        "url": "https://upload.wikimedia.org/wikipedia/en/8/82/Maharaja_2024_film_poster.jpg",
+        "description":"Maharaja is a 2024 Indian Tamil-language action thriller film[6] directed by Nithilan Swaminathan, who co-wrote the dialogues with Raam Murali. It is jointly produced by Passion Studios, The Route and Think Studios. The film stars Vijay Sethupathi in the title role, alongside Anurag Kashyap, Sachana Namidass, Mamta Mohandas, Natarajan Subramaniam, Abhirami, Aruldoss, Munishkanth, Manikandan, Singampuli and Bharathiraja. In the film, a barber tells the police that his 'Lakshmi' is missing after a home robbery, but the police begin to suspect his true intentions.",
+        "cast":["vijay Sethupati","Mamta Monhadas","Anurag Kashyap","Munishkanth","Sachana Namidass"],
+        "crew":["Nithilan Swaminathan","Sudhan Sundaram","Jagadish Palanisamy"],
+        "star":"https://img.icons8.com/?size=100&id=qdQpy48X3Rjv&format=png&color=000000",
+        "rating":"9"
+      },
+      {
+        "id": 4,
+        "title": "Inside out 2",
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Inside_Out_2_poster.jpg/220px-Inside_Out_2_poster.jpg",
+        "description":"Inside Out 2 is a 2024 American animated coming-of-age film produced by Pixar Animation Studios for Walt Disney Pictures. The sequel to Inside Out (2015), it was directed by Kelsey Mann (in his feature directorial debut) and produced by Mark Nielsen, from a screenplay written by Meg LeFauve and Dave Holstein, and a story conceived by Mann and LeFauve. Amy Poehler, Phyllis Smith, Lewis Black, Diane Lane, and Kyle MacLachlan reprise their roles from the first film, with Maya Hawke, Kensington Tallman, Tony Hale, Liza Lapira, Ayo Edebiri, Lilimar, Grace Lu, Sumayyah Nuriddin-Green, Adèle Exarchopoulos, and Paul Walter Hauser joining the cast. The film tells the story of Riley's emotions as they find themselves joined by new emotions that want to take over Riley's head.",
+        "cast":["Kensington Tallman","Ananya Pandey","Amy Poehler","Maya Hawke","Lewis Black"],
+        "crew":["Kelsey Mann","Meg LeFauve","Michael Giacchino"],
+        "star":"https://img.icons8.com/?size=100&id=qdQpy48X3Rjv&format=png&color=000000",
+        "rating":"7.7"
+      },
+      {
+        "id": 5,
+        "title": "Chandu Champion",
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Chandu_Champion_film_poster.jpg/220px-Chandu_Champion_film_poster.jpg",
+        "description":"Chandu Champion is a 2024 Indian Hindi-language biographical sports drama film written and directed by Kabir Khan and produced by Sajid Nadiadwala, under Nadiadwala Grandson Entertainment. It stars Kartik Aaryan as India's first Paralympics gold medallist Murlikant Petkar.Principal photography took place from July 2023 to January 2024 with filming held in London, Wai and Jammu and Kashmir. Chandu Champion was released on 14 June 2024.",
+        "cast":["Kartik Aaryan","Vijay Raaz","Bhuvan Arora","Yashpal Sharma","Shreyas Talpade"],
+        "crew":["kabir khan","Sajid Nadiadwala","Sumit Aroraa"],
+        "star":"https://img.icons8.com/?size=100&id=qdQpy48X3Rjv&format=png&color=000000",
+        "rating":"8.7"
+      }
+      
+
+    ],
+    "upcoming": [
+      {
+        "id": 101,
+        "title": "pushpa",
+        "url": "https://cdn.gulte.com/wp-content/uploads/2021/12/Review1.jpg",
+        "description":"The epic science fiction film has been directed by Nag Ashwin and produced by Vijayanthi Movies. The star-studded film revolves around the story of a select group which is on a mission to save Kalko, the unborn child of SUM-80, a lab subject in a post-apocalyptic world in the year 2898 AD.",
+        "cast":["Allu Arjun","Fahadh Faasil","Rashmika Mandanna","Rao Ramesh","Sunil"],
+        "crew":["Sukumar","Naveen Yerneni","Ravi Shankar","DSP"],
+        "star":"https://img.icons8.com/?size=100&id=qdQpy48X3Rjv&format=png&color=000000",
+        "rating":"9.2"
+      },
+      {
+        "id": 102,
+        "title": "Devara",
+        "url": "https://upload.wikimedia.org/wikipedia/en/f/f0/Devara_Part_1.jpg",
+        "description":"The epic science fiction film has been directed by Nag Ashwin and produced by Vijayanthi Movies. The star-studded film revolves around the story of a select group which is on a mission to save Kalko, the unborn child of SUM-80, a lab subject in a post-apocalyptic world in the year 2898 AD.",
+        "cast":["Jr.NTR","Janhvi Kapoor","Saif Ali khan","Srikanth","Prakash Raj"],
+        "crew":["Koratala Siva","Nandamuri KalyanRam","Sudhakar"],
+        "star":"https://img.icons8.com/?size=100&id=qdQpy48X3Rjv&format=png&color=000000",
+        "rating":"9.2"
+      }
+    ]
+  }
+]
